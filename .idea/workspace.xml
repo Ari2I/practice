@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91353540-9d5d-499b-b2e7-8e293a625ac6" name="Changes" comment="try to delete">
-      <change afterPath="$PROJECT_DIR$/exeption/adsadaa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app-config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asddasdsa.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exeption/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/exeption/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="91353540-9d5d-499b-b2e7-8e293a625ac6" name="Changes" comment="try to delete" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
